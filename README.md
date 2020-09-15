@@ -9,7 +9,7 @@
 
 - 👨‍💻 **I'm currently looking for a position in Berlin**
 - 💻 I like to use `.py`, `.js`, `.rb`, `.html`, `.css`, `.psd`
-- 👨‍🎓 I'm a recent graduate of a bootcamp **looking to prove myself!**
+- 👨‍🎓 I am learning `.go`, `.jsx`
 - 🗣 Please message me about **ruby**, **javascript**, **python** or **twitter bots**
 - 🐦 I **tweet** here: [twitter.com/jsphwllng](https://twitter.com/jsphwllng)
 - 🎨 I like **ping pong**, **yoga** and **brewing** in my spare time.
