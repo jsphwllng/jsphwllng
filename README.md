@@ -13,4 +13,5 @@
 - 🗣 Please message me about **ruby**, **javascript**, **python** or **twitter bots**
 - 🐦 I **tweet** here: [twitter.com/jsphwllng](https://twitter.com/jsphwllng)
 - 🎨 I like **ping pong**, **yoga** and **brewing** in my spare time.
+- 📝 I write a bit **[here:](https://dev.to/jsphwllng)**
 - 🙆‍♂️ My pronouns are **he/him**
