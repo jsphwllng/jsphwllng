@@ -8,10 +8,10 @@
 ### I'm a Full-Stack Developer working in Berlin, Germany
 
 - 👨‍💻 **I'm currently looking for a position in Berlin**
-- 💻 I like to use `.py`, `.js`, `.rb`, `.html`, `.css`, `.psd`
-- 👨‍🎓 I am learning `.go`, `.jsx`
+- 💻 I **like to use** `.py`, `.js`, `.rb`, `.html`, `.css`, `.psd`
+- 👨‍🎓 I am **learning** `.go`, `.jsx`
 - 🗣 Please message me about **ruby**, **javascript**, **python** or **twitter bots**
-- 🐦 I **tweet** here: [twitter.com/jsphwllng](https://twitter.com/jsphwllng)
+- 🐦 I **tweet** [here](https://twitter.com/jsphwllng)
 - 🎨 I like **ping pong**, **yoga** and **brewing** in my spare time.
-- 📝 I write a bit **[here:](https://dev.to/jsphwllng)**
+- 📝 I **write** a bit [here](https://dev.to/jsphwllng)
 - 🙆‍♂️ My pronouns are **he/him**
