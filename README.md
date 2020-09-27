@@ -1,7 +1,7 @@
 <!-- hero -->
 <div align="center">
 	<img style="max-width: 100%;" src="https://s3.amazonaws.com/word-art/5f60f0231209715ae458c250.png" alt="welcome to my github!">
-
+</div>
 
 ```javascript
 console.log("hello, i'm joe!")
@@ -19,4 +19,4 @@ const jsphWllng = {
     "openToOpportunities?": true
     }
 ```
-</div>
+
