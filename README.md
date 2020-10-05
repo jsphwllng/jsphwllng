@@ -1,6 +1,3 @@
-<!-- hero -->
-
-
 ```go
 package main
 
