@@ -18,7 +18,7 @@ joe = {
 
 ## current projects:
 
-🌴 [**an instagram bot to monitor my plants**](https://github.com/jsphwllng/internet_monitor)
+🌴 [**an instagram bot to monitor my plants**](https://github.com/jsphwllng/plant_cam)
 
 🤖 [**generate a graph based on your internet download speed**](https://github.com/jsphwllng/internet_monitor)
 
