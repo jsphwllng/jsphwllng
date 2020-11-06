@@ -11,10 +11,10 @@ Say hi [here](https://twitter.com/jsphwllng) and read my blog [here](https://dev
 
 ## completed projects:
 
-🌴 [**an instagram bot to monitor my plants**](https://github.com/jsphwllng/plant_cam)
+🌴 [an instagram bot to monitor my plants](https://github.com/jsphwllng/plant_cam)
 
-🤖 [**generate a graph based on your internet download speed**](https://github.com/jsphwllng/internet_monitor)
+🤖 [generate a graph based on your internet download speed](https://github.com/jsphwllng/internet_monitor)
 
-🐦 [**a collection of twitter bots to tweet nonsense**](https://github.com/jsphwllng/RNGHaiku)
+🐦 [a collection of twitter bots to tweet nonsense](https://github.com/jsphwllng/RNGHaiku)
 
-📽️ [**a webapp to keep track of my watched films**](https://github.com/jsphwllng/mern-film-tracker)
+📽️ [a webapp to keep track of my watched films](https://github.com/jsphwllng/mern-film-tracker)
