@@ -1,15 +1,16 @@
 <div align="center">
+<img src="./images/200.gif" alt="a stylised image of joseph with a watermelon" width="250">
 
-<img src="./images/joewatermelon.png" alt="a stylised image of joseph with a watermelon" width="130">
-
-Berlin based geek using Golang🐹 and Python🐍, loving barbecue and plants, forcing automation in social media and passionate about diversity in tech.
+## Hi, I'm jsphwllng!
+Berlin based geek using Golang🐹 and Python🐍, I love barbecue, plants and passionate diversity in tech.
 
 Say hi [here](https://twitter.com/jsphwllng) and read my blog [here](https://dev.to/jsphwllng).
 </div>
 
 ***
 
-## completed projects:
+### completed projects:
+<br>
 
 🌴 [an instagram bot to monitor my plants](https://github.com/jsphwllng/plant_cam)
 
