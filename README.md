@@ -2,10 +2,10 @@
 ```yaml
 - name: jsphwllng
 - tech: 
-  - [typescript, golang, python, PSQL]
-  - [jest, robotframework, capybara]
-  - [MERN, ruby on rails]
-  - [docker, k8s, aws]
+  - [typescript, golang, python, ruby, PSQL]
+  - [jest, robotframework, capybara, unittest]
+  - [MERN, ruby on rails, flask, django]
+  - [docker, k8s, aws, heroku]
 - hobbies:
   - [cooking, wine making, photography, plant dad]
 - pronouns:
