@@ -1,13 +1,13 @@
 
 ```yaml
-- name: jsphwllng
-- tech: 
+name: jsphwllng
+tech: 
   - [typescript, golang, python, ruby, PSQL]
   - [jest, robotframework, capybara, unittest]
   - [MERN, ruby on rails, flask, django]
   - [docker, k8s, aws, heroku]
-- hobbies:
+hobbies:
   - [cooking, wine making, photography, plant dad]
-- pronouns:
+pronouns:
   - [he, him]
 ```
