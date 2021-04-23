@@ -2,7 +2,7 @@
 ```yaml
 name: jsphwllng
 tech: 
-  - [typescript, golang, python, ruby, PSQL]
+  - [typescript, golang, python, ruby, java, PSQL]
   - [jest, robotframework, capybara, unittest]
   - [MERN, ruby on rails, flask, django]
   - [docker, k8s, aws, heroku]
