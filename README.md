@@ -12,5 +12,5 @@ pronouns:
   - [he, him]
 ```
 Read my latest blogpost: <a href="www.jsphwllng.com/blog/nill_null">
-    an intro to oop in java<a/>
+    comparing uninitialised variables in java and golang<a/>
     
