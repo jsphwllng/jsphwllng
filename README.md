@@ -11,6 +11,6 @@ hobbies:
 pronouns:
   - [he, him]
 ```
-Read my latest blogpost: [$
+Read my latest blogpost: [
     comparing uninitialised variables in java and golang]($www.jsphwllng.com/blog/nill_null)
     
