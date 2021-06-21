@@ -13,5 +13,5 @@ pronouns:
   - [he, him]
 ```
 Read my latest blogpost: [
-    comparing uninitialised variables in java and golang](http://www.jsphwllng.com/blog/nill_null)
+    setting up prometheus with goa in golang](http://www.jsphwllng.com/blog/goaprom)
     
